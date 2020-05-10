@@ -1,0 +1,14 @@
+Notes
+
+Changed the incorrect link to the jellyfish graphic (it had the wrong file extension).
+Added a link in header to the stylesheet file.
+Added a link the header to the main.js file.
+Added a link in the Header to the Jquery library (from the Google CDN).
+Added a link to Veeva.com on the Click Here button (site loads in new tab).
+Changed the header-bar element in the css file to position=fixed (from relative).
+Added div class column to get 2 columns of text.
+Added a form with a checkbox with label, a 3-choice picklist, and a Submit button.
+Added Jquery alert scripts for page load and clicking the Submit button on the form.
+Took out   transform: translate(-50%, -50%);?
+Changed the button color to Veeva orange in css: color: #f89728;
+
